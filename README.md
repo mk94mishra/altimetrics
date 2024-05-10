@@ -15,12 +15,12 @@ This is a simple API built with FastAPI and SQLAlchemy for managing feature togg
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/mk94mishra/altimetrics.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd <repository-directory>
+    cd altimetrics
     ```
 
 3. Install dependencies using `pip`:
